@@ -1,0 +1,3 @@
+name: Zach Fox, Fan of Bacon
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
