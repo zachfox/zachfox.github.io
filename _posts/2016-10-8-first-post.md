@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Zach Fox Launches Site"
 date: 2016-10-8
 ---
 
