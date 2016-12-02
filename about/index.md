@@ -2,7 +2,7 @@
 layout: default
 title: Zach Fox 
 ---
-# hi there, I'm zach fox!
+# zach fox 
 I'm a PhD student studying computational and systems biology at Colorado State University in Fort Collins, CO. 
 My PhD work has been devoted to developing new computational technologies that describe stochastic gene regulation. 
 As new techniques allow experimental biologists to measure biomolecules with higher precision, computational modeling has room for massive improvements that incorporate these data to make better predictions and design more effective experiments. 
