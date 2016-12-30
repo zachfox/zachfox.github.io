@@ -5,7 +5,7 @@ title: Zach Fox
 # Projects
 
 ## Finite State Projection Based Bounds on the Likelihood of Observing Single-Cell Data
-<img src="/assets/samdps.png" alt="likelihood bounds" width="300">
+<img align="center" src="/assets/samdps.png" alt="likelihood bounds" width="300">
 
  We developed [new bounds on the likelihood of observing single-cell data](http://aip.scitation.org/doi/full/10.1063/1.4960505) given a discrete-stochastic model. It's cool because:
 
