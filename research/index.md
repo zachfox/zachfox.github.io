@@ -9,6 +9,7 @@ New way:
 <img src="{{ site.url }}/assets/samdps.png" alt="Drawing" width=200">
 
 
+<img src="/assets/samdps.png" alt="Drawing" width=200">
 
 
 Other way:
