@@ -13,5 +13,5 @@ New way:
 
 Other way:
 
-![alt text]({{ site.url }}/assets/samdps.png)
+![alt text]({{ site.url }}/assets/samdps.png =100x200)
 
