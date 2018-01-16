@@ -4,10 +4,11 @@ title: Zach Fox's CV
 ---
 zach fox
 ============
-
+______________________
 Biomedical Engineering             zachrfox@gmail.com
 Colorado State University          @zachrfox
 Fort Collins, CO 80521                           
+_____________________
 
 Education
 ---------
