@@ -2,31 +2,27 @@
 layout: default
 title: Zach Fox's CV
 ---
-Zach Fox
+zach fox
 ============
 
--------------------     ----------------------------
 Biomedical Engineering             zachrfox@gmail.com
 Colorado State University          @zachrfox
 Fort Collins, CO 80521                           
--------------------     ----------------------------
 
 Education
 ---------
 
 2014-2019 (expected)
-:   **PhD, Bioengineering**; Colorado State University (Fort Collins, CO)
-
-    *Integrating Single-Cell, Single-Molecule Data and Discrete Stochastic Models*
+:   **PhD, Bioengineering**; Colorado State University 
+:    Integrating Single-Cell, Single-Molecule Data and Discrete Stochastic Models
 
 2010-2014
 :   **BBE, Biomedical Engineering**; University of Delaware 
+:    Minor: Electrical Engineering
 
-    *Minor: Electrical Engineering*
-
-#Experience
-#----------
-#
+Research Interests
+----------
+: Stochastic Gene Regulation, Computational and Mathematical Biology, Single-Cell Experiments
 #**Your Most Recent Work Experience:**
 #
 #Short text containing the type of work done, results obtained,
