@@ -12,24 +12,24 @@ Education
 ---------
 
 2014-2019 (expected)
-:   **PhD, Bioengineering**; Colorado State University 
-:    Integrating Single-Cell, Single-Molecule Data and Discrete Stochastic Models
+   **PhD, Bioengineering**; Colorado State University 
+    Integrating Single-Cell, Single-Molecule Data and Discrete Stochastic Models
 
 2010-2014
-:   **BBE, Biomedical Engineering**; University of Delaware 
-:    Minor: Electrical Engineering
+   **BBE, Biomedical Engineering**; University of Delaware 
+    Minor: Electrical Engineering
 
 Research Interests
 ----------
-:   Stochastic Gene Regulation, Computational and Mathematical Biology, Single-Cell Experiments
+   Stochastic Gene Regulation, Computational and Mathematical Biology, Single-Cell Experiments
 
 Awards and Fellowships
 ----------------------
-:    *2017-2018* **VPR Fellow** *Colorado State University*, Fort Collins, CO
-:    Fellowship earned by competing in University-wide [scientific communication competition]("https://vpr.colostate.edu/vpr-fellows-program/") sponsored by the Office of the Vice President for Research at CSU. You can see my presentation [here](https://www.youtube.com/watch?v=D9zbiR2Fc7w).
+    *2017-2018* **VPR Fellow** *Colorado State University*, Fort Collins, CO
+    Fellowship earned by competing in University-wide [scientific communication competition]("https://vpr.colostate.edu/vpr-fellows-program/") sponsored by the Office of the Vice President for Research at CSU. You can see my presentation [here](https://www.youtube.com/watch?v=D9zbiR2Fc7w).
 
-:    *2015-2016* **GAUSSI Fellow** *Colorado State University*, Fort Collins, CO
-:    An NSF sponsored program for tackling interdisciplinary challenges in the context of large biological data sets. [Program website]("http://gaussi.colostate.edu").
+    *2015-2016* **GAUSSI Fellow** *Colorado State University*, Fort Collins, CO
+    An NSF sponsored program for tackling interdisciplinary challenges in the context of large biological data sets. [Program website]("http://gaussi.colostate.edu").
 
 Publications and Presentations
 -----------
