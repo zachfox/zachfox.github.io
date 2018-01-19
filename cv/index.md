@@ -24,74 +24,25 @@ Education
 Research Interests
 ----------
 : Stochastic Gene Regulation, Computational and Mathematical Biology, Single-Cell Experiments
-#**Your Most Recent Work Experience:**
-#
-#Short text containing the type of work done, results obtained,
-#lessons learned and other remarks. Can also include lists and
-#links:
-#
-#* First item
-#
-#* Item with [link](http://www.example.com). Links will work both in
-#  the html and pdf versions.
-#
-#**That Other Job You Had**
-#
-#Also with a short description.
-#
-#Technical Experience
-#--------------------
-#
-#My Cool Side Project
-#:   For items which don't have a clear time ordering, a definition
-#    list can be used to have named items.
-#
-#    * These items can also contain lists, but you need to mind the
-#      indentation levels in the markdown source.
-#    * Second item.
-#
-#Open Source
-#:   List open source contributions here, perhaps placing emphasis on
-#    the project names, for example the **Linux Kernel**, where you
-#    implemented multithreading over a long weekend, or **node.js**
-#    (with [link](http://nodejs.org)) which was actually totally
-#    your idea...
-#
-#Programming Languages
-#:   **first-lang:** Here, we have an itemization, where we only want
-#    to add descriptions to the first few items, but still want to
-#    mention some others together at the end. A format that works well
-#    here is a description list where the first few items have their
-#    first word emphasized, and the last item contains the final few
-#    emphasized terms. Notice the reasonably nice page break in the pdf
-#    version, which wouldn't happen if we generated the pdf via html.
-#
-#:   **second-lang:** Description of your experience with second-lang,
-#    perhaps again including a [link] [ref], this time placing the url
-#    reference elsewhere in the document to reduce clutter (see source
-#    file). 
-#
-#:   **obscure-but-impressive-lang:** We both know this one's pushing
-#    it.
-#
-#:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-#
-#[ref]: https://github.com/githubuser/superlongprojectname
-#
-#Extra Section, Call it Whatever You Want
-#----------------------------------------
-#
-#* Human Languages:
-#
-#     * English (native speaker)
-#     * ???
-#     * This is what a nested list looks like.
-#
-#* Random tidbit
-#
-#* Other sort of impressive-sounding thing you did
 
-This page is WIP. In the mean time, check out my [google scholar]("https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en">google) page for publications. 
+Awards and Fellowships
+----------------------
+:*2017-2018* **VPR Fellow** *Colorado State University*, Fort Collins, CO
+: Fellowship earned by competing in University-wide [scientific communication competition]("https://vpr.colostate.edu/vpr-fellows-program/") sponsored by the Office of the Vice President for Research at CSU. You can see my presentation [here](https://www.youtube.com/watch?v=D9zbiR2Fc7w).
+
+:*2015-2016* **GAUSSI Fellow** *Colorado State University*, Fort Collins, CO
+: An NSF sponsored program for tackling interdisciplinary challenges in the context of large biological data sets. [Program website]("http://gaussi.colostate.edu").
+
+Publications and Presentations
+-----------
+Please see [google scholar]("https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en">google) page for publications. 
+: Selected Presentations
+* 2017
+    * **Using Stochastic Models to Extend the Color Palette of Single-Molecule Microscopy**, *q-bio Summer Meeting*, Rutgers University, New Brunswick, New Jersey. _(20 Minute Talk, co-presentation with Michael May)_
+    * **Model-driven Design of Single-Cell Experiments**, , *q-bio Summer Meeting*, Rutgers University, New Brunswick, New Jersey. _(20 Minute Talk, co-presentation with Michael May)_
+    * **Systematic Integration of Single-Cell Experiments and Discrete Stochastic Models**, *Gordon Conference on Stochastic Physics in Biology*,Ventura, CA. _(Poster)_. 
+    
+
 
 
 
