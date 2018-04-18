@@ -4,5 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## Biology, Computation, Modeling and Statistics
-Thank you for visiting my site. I write about my interests.
