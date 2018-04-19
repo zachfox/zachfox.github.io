@@ -5,9 +5,7 @@ date:   2018-04-04
 categories: programming MATLAB visualization 
 ---
 
-Recently, I was working on plotting some time series for a model with _a lot_ of parameters and 6 species. I wanted to do a first pass on a sensitivity analysis, and sampled parameters near to my current parameters, and compute the model solution at those parameters.
-
-I wanted to visualize the solutions for this process as a mean model solution +/- one standard deviation, with a semi-transparent fill between the standard deviations and had a little trouble remembering how to do this. 
+Recently, I was working on plotting some time series for a model with 6 variables. I wanted to visualize the solutions for this process as a mean model solution +/- one standard deviation, with a semi-transparent fill between the standard deviations and had a little trouble remembering how to do this. 
 
 MATLAB's documentation tells you that the `fill` function makes polygons, with the vertices specified by the x and y values you supply. 
 
@@ -19,7 +17,7 @@ fill(x,y,'k')
 <p align="center">
 <img  src="/assets/rectangle.png" alt="rectangle" style="width: 400px" />
 </p>
-The order of the vertices matters - so while the above makes a rectangle, if the last entries are switched, you get a bowtie instead of a rectangle, 
+The order of the vertices matters - so while the above makes a rectangle, if the last entries of `y` are switched, you get a bowtie instead of a rectangle, 
 
 {% highlight matlab %}
 x = [0 0 1 1] %  x values of vertices
@@ -31,7 +29,7 @@ fill(x,y,'k')
 </p>
 Notice that `fill` automatically closes the polygon by drawing a line from the last specified vertex to the initial vertex. In the case of the bowtie, from `(1,1)` to `(0,0)`. 
 
-To draw time series data with those crafty standard deviation shadings, we can draw a polygon that goes "out and back". The time values should monotonically increase, and then turn around and monotonically decrease in the same way. The trick in MATLAB is to use the 
+To draw time series data with those crafty standard deviation shadings, we can draw a polygon that goes "out and back".  The x values should monotonically increase, and then turn around and monotonically decrease in the same way. The trick in MATLAB is to use the 
 `flip` function, which reverses a vector. 
 
 {% highlight matlab %}
@@ -46,6 +44,8 @@ full_tvec =
 Very out and back. 
 
 Suppose we have a data matrix where the rows are different time points and the columns are different observations of the variable at those time points.  
+From this data, I can compute the mean and standard deviation at each time point. 
+Finally, the `fill` function can be used to plot the time series, where the top vertices are the mean +1 standard deviation and the bottom vertices are the mean -1 standard deviation. 
 
 {% highlight matlab %}
 
