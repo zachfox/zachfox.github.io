@@ -23,6 +23,7 @@ An NSF sponsored program for tackling interdisciplinary challenges in the contex
 * 2018
     * **Designing Single-Cell Experiments with Discrete Stochastic Models**. *Biophysical Society Meeting*. San Francisco, CA. _(contributed talk)_. 
 * 2017
+    * **Model-Driven Design of Single-Cell Experiments**. *Biomedical Engineering Society Meeting*. Phoenix, AZ. (_Poster_).
     * **Using Stochastic Models to Extend the Color Palette of Single-Molecule Microscopy**. *q-bio Summer Meeting*. Rutgers University, New Brunswick, New Jersey. _(contributed talk, co-presentation with Michael May)_
     * **Model-driven Design of Single-Cell Experiments**. *q-bio Summer Meeting*. Rutgers University, New Brunswick, New Jersey. _(contributed talk, co-presentation with Michael May)_
     * **Systematic Integration of Single-Cell Experiments and Discrete Stochastic Models**. *Gordon Conference on Stochastic Physics in Biology*.Ventura, CA. _(Poster)_.
