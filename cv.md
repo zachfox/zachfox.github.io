@@ -21,6 +21,7 @@ An NSF sponsored program for tackling interdisciplinary challenges in the contex
 *2017* **Outstanding Graduate Student Award** School of Biomedical Engineering, Fort Collins, CO.
 ### Selected Presentations
 * 2018
+    * **Fisher Information for the Design of Single-Cell Experiments with Discrete Stochastic Models**. *Annual meeting for the Society of Industrial and Applied Mathematics*. Portland, OR. _(contributed talk,session chair)_. 
     * **Designing Single-Cell Experiments with Discrete Stochastic Models**. *Biophysical Society Meeting*. San Francisco, CA. _(contributed talk)_. 
 * 2017
     * **Model-Driven Design of Single-Cell Experiments**. *Biomedical Engineering Society Meeting*. Phoenix, AZ. (_Poster_).

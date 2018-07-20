@@ -4,8 +4,12 @@ title: Publications
 permalink: /Publications/
 ---
 For citations, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
+## 2018 
+Fox and Munsky. [The finite state projection based Fisher information matrix approach to estimate and maximize the information in single-cell experiments](https://www.biorxiv.org/content/early/2018/07/16/370205). *arXiv preprint arXiv.*
+
+Munsky, Li, Fox, Shepherd, Neuert. [Distribution shapes govern the discovery of predictive models for gene regulation](http://www.pnas.org/content/early/2018/06/28/1804060115.short). *Proceedings of the National Academy of Sciences.*
 ## 2017
-Fox and Munsky. [Stochasticity or Noise in Biochemical Reactions](https://arxiv.org/abs/1708.09264). *arXiv preprint arXiv:1708.09264.*
+Fox and Munsky. [Stochasticity or Noise in Biochemical Reactions](https://arxiv.org/abs/1708.09264). *arXiv preprint.*
 ## 2016 
 Fox, Neuert, Munsky. [Finite state projection based bounds to compare chemical equation models using single-cell data](https://aip.scitation.org/doi/full/10.1063/1.4960505). *Journal of Chemical Physics.* 
 ## 2015 
