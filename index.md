@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## Thanks for visiting.
+<h1> Thanks for visiting.</h1>
 <p align="center">
 <img  src="/assets/translation_fig.png" alt="rectangle" style="width: 400px" />
 </p>
