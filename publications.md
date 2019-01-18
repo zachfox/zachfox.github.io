@@ -4,10 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
+## 2019
+Fox and Munsky. [The finite state projection based Fisher information matrix approach to estimate and maximize the information in single-cell experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006365). *PloS Computational Biology.*
+
 ## 2018 
 Vo, Fox, Baetica, Munsky. [Bayesian estimation for stochastic gene expression using multifidelity models](https://www.biorxiv.org/content/early/2018/11/11/468090). *bioarXiv preprint.*
 
-Fox and Munsky. [The finite state projection based Fisher information matrix approach to estimate and maximize the information in single-cell experiments](https://www.biorxiv.org/content/early/2018/07/16/370205). *bioarXiv preprint.*
 
 Munsky, Li, Fox, Shepherd, Neuert. [Distribution shapes govern the discovery of predictive models for gene regulation](http://www.pnas.org/content/early/2018/06/28/1804060115.short). *Proceedings of the National Academy of Sciences.*
 ## 2017
