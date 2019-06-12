@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
 ## 2019
+Aguilera, Raymond, Fox, May, Djokic, Morisaki, Stasevich, Munsky. [Computational design and interpretation of single-RNA translation experiments](https://www.biorxiv.org/content/10.1101/659987v1). *biorXiv preprint.*
 Fox and Munsky. [The finite state projection based Fisher information matrix approach to estimate and maximize the information in single-cell experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006365). *PloS Computational Biology.*
 
 Vo, Fox, Baetica, Munsky. [Bayesian estimation for stochastic gene expression using multifidelity models](https://pubs.acs.org/doi/10.1021/acs.jpcb.8b10946). *Journal of Physical Chemistry B.*
