@@ -10,13 +10,21 @@ Recently, I was working on plotting some time series for a model with 6 variable
 MATLAB's documentation tells you that the `fill` function makes polygons, with the vertices specified by the x and y values you supply. 
 
 {% highlight matlab %}
+```{#mycode .matlab .numberLines startFrom="1"}
 x = [0 0 1 1] % x values of vertices
 y = [0 1 1 0] % y values of vertices 
 fill(x,y,'k')
+```
 {% endhighlight matlab %}
 <p align="center">
 <img  src="/assets/rectangle.png" alt="rectangle" style="width: 400px" />
 </p>
+
+
+![nah homey this is a mfing caption](../assets/rectangle.png)
+
+
+
 The order of the vertices matters - so while the above makes a rectangle, if the last entries of `y` are switched, you get a bowtie instead of a rectangle, 
 
 {% highlight matlab %}

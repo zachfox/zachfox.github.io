@@ -8,11 +8,12 @@ layout: home
 <p align="center">
 <img  src="/assets/translation_fig.png" alt="rectangle" style="width: 400px" />
 </p>
-I’m a PhD student studying computational and systems biology at Colorado State University in Fort Collins, CO.
-My PhD work has been devoted to developing new computational technologies that describe stochastic gene regulation. 
-As new techniques allow experimental biologists to measure biomolecules with higher precision, and even image the entire central dogma at single-molecule resolution, computational modeling has room for massive improvements that incorporate these data to make better predictions and design more effective experiments. 
-My research focuses on using modern gene expression data to more efficiently identify predictive models of stochastic gene regulation. 
-I am passionate about computation and predictive modeling, especially in noisy systems. Check out [google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=1&oi=ao) to see a comprehensive list of publications.
+I am a currently a post-doctoral researcher with the [InBio team](https://research.pasteur.fr/en/team/experimental-and-computational-methods-for-modeling-cellular-processes/) at Institut Pasteur and Inria in Paris, France. I'm working with collaborators at IST Austria and the Living Systems Institute in Exeter, UK, to develop quantitive methods to design, test, and debug synthetic biological circuits. 
+
+Prior to joining the InBio team,  I was a PhD student studying computational and systems biology at Colorado State University in Fort Collins, CO.
+My PhD work was been  developed new computational methods to describe compare stochastic models of gene expression and modern single cell data. 
+As new techniques allow experimental biologists to measure biomolecules with higher precision, and even image the entire central dogma at single-molecule resolution (in live cells!!!!). My work tries to improve computational modeling approaches to make use of the rich and exciting information contained in modern experiments. 
+I am passionate about computation and predictive modeling, especially in noisy systems. Check out [google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=1&oi=ao) to see a comprehensive list of publications and all of the blah bleh.
 
 
-Outside of my academic work, I spend my time rock climbing, playing tennis, reading, and running. 
+Outside of my academic work, I spend my time rock climbing, playing tennis, reading, and running.
