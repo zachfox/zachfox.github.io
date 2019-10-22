@@ -13,8 +13,8 @@ I am a currently a post-doctoral researcher with the [InBio team](https://resear
 Prior to joining the InBio team,  I was a PhD student studying computational and systems biology in [Brian Munsky's group](http://www.engr.colostate.edu/~munsky/) at Colorado State University in Fort Collins, CO.
 My PhD work developed new computational methods to compare stochastic models of gene expression and modern single cell data. 
 
-As new techniques allow experimental biologists to measure biomolecules with higher precision, and even image the entire central dogma at single-molecule resolution (in live cells!!!!). My work tries to improve computational modeling approaches to make use of the rich and exciting information contained in modern experiments. 
-I am passionate about computation and predictive modeling, especially in noisy systems. Check out [google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=1&oi=ao) to see a comprehensive list of publications and all of the blah bleh.
+New techniques allow experimental biologists to measure biomolecules with higher precision, and even image the entire central dogma at single-molecule resolution in live cells. My work tries to improve computational modeling approaches to make use of the rich and exciting information contained in modern experiments. 
+I am passionate about computation and predictive modeling, especially in stochastic systems. Check out [google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=1&oi=ao) to see a comprehensive list of publications. 
 
 
 Outside of my academic work, I spend my time rock climbing, playing tennis, reading, and running.
