@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<h1> Thanks for visiting.</h1>
 <p align="center">
-<img  src="/assets/header_fig.png" alt="rectangle" style="width: 400px" />
+<img  src="/assets/header_fig.png" alt="rectangle" style="width: 500px" />
 </p>
+<h1> Thanks for visiting.</h1>
 I am a currently a post-doctoral researcher with the [InBio team](https://research.pasteur.fr/en/team/experimental-and-computational-methods-for-modeling-cellular-processes/) at Institut Pasteur and Inria in Paris, France. I'm working with collaborators at IST Austria and the Living Systems Institute in Exeter, UK, to develop quantitive methods to design, test, and debug synthetic biological systems, including "computer in the loop" cybergenetic circuits.
 
 Prior to joining the InBio team,  I was a PhD student studying computational and systems biology in [Brian Munsky's group](http://www.engr.colostate.edu/~munsky/) at Colorado State University in Fort Collins, CO.
