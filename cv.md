@@ -5,11 +5,12 @@ permalink: /CV/
 ---
 ### Education and Experience
 *2019-...* **Post-doctoral researcher**. Joint position between Inria and Institut Pasteur in Paris, France. 
+
 *2014-2019.* **PhD in Bioengineering**. Colorado State University, Fort Collins, CO. _Integrating discrete stochastic models and single-cell data_. 
 
 *2010-2014.* **Bachelor of Biomedical Engineering**. University of Delaware, Newark, DE. Minor in Electrical and Computer Engineering. _Stochastic modeling of Tat feedbacks in HIV and dynamics of promiscuous binding of transcription factors_. 
 ### Research Interests
-Stochastic Gene Regulation, Computational and Mathematical Biology, Single-Cell Experiments, Single-Cell Data Analysis, Computational Modeling, Parameter Estimation, Uncertainty Quantification, Optimal Experiment Design.
+Stochastic Gene Regulation, Optimal Experiment Design, Uncertainty Quantification, Complex Systems, Single-Cell Experiments, Single-Cell Data Analysis, Computational Modeling, Parameter Estimation.
 ### Teaching
 Introduction to MATLAB for Chemical Engineers. Colorado State University, Fall 2017.
 ### Awards and Fellowships
@@ -22,6 +23,8 @@ An NSF sponsored program for tackling interdisciplinary challenges in the contex
 *2017* **Outstanding Graduate Student Award** School of Biomedical Engineering, Fort Collins, CO.
 ### Selected Presentations
 * 2019
+    * **Optimal Design of Single-Cell Experiments in _S. cerevisiae_**. *BIOSS Meeting*. Paris, FR. _(contributed talk)_.
+    * **Optimal Design of Single-Cell Experiments within Temporally Fluctuating Environments**. *Cosy-Bio Meeting*. Valencia, ES. _(contributed talk)_.
     * **Finite-State Projection Based Fisher Information**. *Gordon Conference on Stochastic Physics in Biology*. Ventura, CA. _(Poster)_.
 * 2018
     * **Fisher Information for the Design of Single-Cell Experiments with Discrete Stochastic Models**. *Annual meeting for the Society of Industrial and Applied Mathematics*. Portland, OR. _(contributed talk,session chair)_.
