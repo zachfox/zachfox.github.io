@@ -1,7 +1,7 @@
 ---
 layout: page
-title: software
-permalink: /software/
+title: Software
+permalink: /Software/
 ---
 
 **[rSNAPSIM](https://github.com/MunskyGroup/rSNAPsim)**
