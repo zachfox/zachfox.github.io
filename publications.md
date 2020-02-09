@@ -4,10 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
-## 2019
-Fox, Neuert, Munsky. [Optimal Design of Single-Cell Experiments within Temporally Fluctuating Environments](https://www.biorxiv.org/content/10.1101/812479v1). *BioRxiv Preprint* 
+## 2020 
+Jashnsaz, Fox, Hughes, Li, Munsky, Neuert. [Diverse cell stimulation kinetics identify predictive signal transduction models](https://www.biorxiv.org/content/10.1101/2020.01.28.923755v1). *BioRxiv Preprint.*
 
-Aguilera, Raymond, Fox, May, Djokic, Morisaki, Stasevich, Munsky. [Computational design and interpretation of single-RNA translation experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007425). *PloS Computational Biology*
+## 2019
+Fox, Neuert, Munsky. [Optimal Design of Single-Cell Experiments within Temporally Fluctuating Environments](https://www.biorxiv.org/content/10.1101/812479v1). *BioRxiv Preprint.* 
+
+Aguilera, Raymond, Fox, May, Djokic, Morisaki, Stasevich, Munsky. [Computational design and interpretation of single-RNA translation experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007425). *PloS Computational Biology.*
 
 Fox and Munsky. [The finite state projection based Fisher information matrix approach to estimate and maximize the information in single-cell experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006365). *PloS Computational Biology.*
 
