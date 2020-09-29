@@ -7,6 +7,7 @@ For citations and other metrics, please see [Google scholar](https://scholar.goo
 
 ## 2020 
 Jashnsaz, Fox, Hughes, Li, Munsky, Neuert. [Diverse cell stimulation kinetics identify predictive signal transduction models](https://www.cell.com/iscience/fulltext/S2589-0042(20)30757-4). *iScience.*
+
 Fox, Neuert, Munsky. [Optimal Design of Single-Cell Experiments within Temporally Fluctuating Environments](https://www.hindawi.com/journals/complexity/2020/8536365/). *Complexity.* 
 
 ## 2019
