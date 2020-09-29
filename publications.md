@@ -4,11 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
+
 ## 2020 
-Jashnsaz, Fox, Hughes, Li, Munsky, Neuert. [Diverse cell stimulation kinetics identify predictive signal transduction models](https://www.biorxiv.org/content/10.1101/2020.01.28.923755v1). *BioRxiv Preprint.*
+Jashnsaz, Fox, Hughes, Li, Munsky, Neuert. [Diverse cell stimulation kinetics identify predictive signal transduction models](https://www.cell.com/iscience/fulltext/S2589-0042(20)30757-4). *iScience.*
+Fox, Neuert, Munsky. [Optimal Design of Single-Cell Experiments within Temporally Fluctuating Environments](https://www.hindawi.com/journals/complexity/2020/8536365/). *Complexity.* 
 
 ## 2019
-Fox, Neuert, Munsky. [Optimal Design of Single-Cell Experiments within Temporally Fluctuating Environments](https://www.biorxiv.org/content/10.1101/812479v1). *BioRxiv Preprint.* 
 
 Aguilera, Raymond, Fox, May, Djokic, Morisaki, Stasevich, Munsky. [Computational design and interpretation of single-RNA translation experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007425). *PloS Computational Biology.*
 
