@@ -5,8 +5,7 @@ permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
 ## 2021
-Jashnsaz, Fox, Munsky, Neuert. [Building predictive signaling models by perturbing yeast cells with time-varying stimulations resulting in distinct signaling responses](https://star-protocols.cell.com/protocols/786)
-). *STAR Protocols.*
+Jashnsaz, Fox, Munsky, Neuert. [Building predictive signaling models by perturbing yeast cells with time-varying stimulations resulting in distinct signaling responses](https://star-protocols.cell.com/protocols/786). *STAR Protocols.*
 
 Fox, Fletcher, Fraisse, Aditya, Sosa-Carrilo, Gilles, Bertaux, Ruess, Batt. [MicroMator: Open and Flexible Software for Reactive Microscopy](https://www.biorxiv.org/content/10.1101/2021.03.12.435206v2). *biorXiv preprint.*
 
