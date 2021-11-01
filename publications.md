@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
 ## 2021
+Fox, Barkai, Krapf. [Aging power spectrum of membrane protein transport and other subordinated random walks](https://www.nature.com/articles/s41467-021-26465-8). *Nature Communications*.
+
 Jashnsaz, Fox, Munsky, Neuert. [Building predictive signaling models by perturbing yeast cells with time-varying stimulations resulting in distinct signaling responses](https://star-protocols.cell.com/protocols/786). *STAR Protocols.*
 
 Fox, Fletcher, Fraisse, Aditya, Sosa-Carrilo, Gilles, Bertaux, Ruess, Batt. [MicroMator: Open and Flexible Software for Reactive Microscopy](https://www.biorxiv.org/content/10.1101/2021.03.12.435206v2). *biorXiv preprint.*
-
-Fox, Barkai, Krapf. [Aging power spectrum of membrane protein transport and other subordinated random walks](https://assets.researchsquare.com/files/rs-286804/v1_stamped.pdf). *Research Square preprint*.
 
 ## 2020 
 Jashnsaz, Fox, Hughes, Li, Munsky, Neuert. [Diverse cell stimulation kinetics identify predictive signal transduction models](https://www.cell.com/iscience/fulltext/S2589-0042(20)30757-4). *iScience.*
