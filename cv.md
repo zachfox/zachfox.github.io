@@ -21,6 +21,7 @@ Q-Bio Summer School, project lead/instructor, 2016-2017.
 Introduction to MATLAB for Chemical Engineers. Colorado State University, Fall 2017.
 ### Awards and Fellowships
 *2020-...* **CNLS Fellow** *Los Alamos National Laboratory, Los Alamos, NM*. Postdoctoral fellow in the (Center for Nonlinear Studies)[https://cnls.lanl.gov/External/] at Los Alamos National Laboratory. 
+
 *2017-2018* **VPR Fellow** *Colorado State University*, Fort Collins, CO.
 Fellowship earned by competing in University-wide [scientific communication competition]("https://vpr.colostate.edu/vpr-fellows-program/") sponsored by the Office of the Vice President for Research at CSU. You can see my presentation [here](https://www.youtube.com/watch?v=D9zbiR2Fc7w).
 
@@ -29,6 +30,13 @@ An NSF sponsored program for tackling interdisciplinary challenges in the contex
 
 *2017* **Outstanding Graduate Student Award** School of Biomedical Engineering, Fort Collins, CO.
 ### Selected Presentations
+* 2021
+    * **Computational Design and Control of Stochastic Gene Expression in Single Cells**. *Univeristy of New Mexico Mechanical Engineering Seminar*. _(Invited seminar)_. 
+    * **Fisher Information for Stochastic Gene Expression and Cellular Timing Distributions**. *Gordon Conference on Stochastic Physics in Biology*. Ventura, CA. _(Poster)_.
+* 2020
+    * **Closing the Loop Between Stochastic Biochemical Models and Single-Cell Data.** *Advanced Network Science Institute, Los Alamos National Laboratory*. Los Alamos, NM. _(invited talk)_.
+    * **Using Optogenetics to Characterize Synthetic Biological Circuits**. *Biophysical Society Meeting*. San Diego, CA. _(Poster)_. 
+
 * 2019
     * **Optimal Design of Single-Cell Experiments in _S. cerevisiae_**. *BIOSS Meeting*. Paris, FR. _(contributed talk)_.
     * **Optimal Design of Single-Cell Experiments within Temporally Fluctuating Environments**. *Cosy-Bio Meeting*. Valencia, ES. _(contributed talk)_.
