@@ -4,7 +4,8 @@ title: CV
 permalink: /CV/
 ---
 ### Education and Experience
-*2019-...* **Post-doctoral researcher**. Joint position between Inria and Institut Pasteur in Paris, France. 
+*2020-...* **Post-doctoral fellow in Applied Mathematics and Machine Learning**. Center for Nonlinear Studies and Information Sciences, Los Alamos National Laboratory, Los Alamos, NM. 
+*2019-2020* **Post-doctoral researcher in Applied Mathematics and Cybergenetics**. Joint position between Inria and Institut Pasteur in Paris, France. 
 
 *2014-2019.* **PhD in Bioengineering**. Colorado State University, Fort Collins, CO. _Integrating discrete stochastic models and single-cell data_. 
 
@@ -12,6 +13,8 @@ permalink: /CV/
 ### Research Interests
 Stochastic Gene Regulation, Optimal Experiment Design, Uncertainty Quantification, Complex Systems, Single-Cell Experiments, Single-Cell Data Analysis, Computational Modeling, Parameter Estimation.
 ### Teaching
+U(ndergraduate) Q-Bio Summer School, project organizer and lecturer. See the [UQ-bio website](ihttps://q-bio.org/wp/) and my lectures on [image analysis](https://q-bio.org/wp/mod1_imaging/) and [introduction to inference](https://q-bio.org/wp/home/2021schedule/mod-4-single-cell-master-equations/). Colab notebooks for each lecture are available [here](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing) and [here](https://colab.research.google.com/drive/11UUXs2-2WMo0tbXKABpPkwuMPN7H-XMx?usp=sharing). I also organized a hands on project for the undergraduate students. 2021. 
+Q-Bio Summer School, project lead/instructor, 2016-2017. 
 Introduction to MATLAB for Chemical Engineers. Colorado State University, Fall 2017.
 ### Awards and Fellowships
 *2017-2018* **VPR Fellow** *Colorado State University*, Fort Collins, CO.
