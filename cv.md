@@ -14,7 +14,7 @@ permalink: /CV/
 ### Research Interests
 Stochastic Gene Regulation, Optimal Experiment Design, Uncertainty Quantification, Complex Systems, Bioimage Analysis, Control, Synthetic Biology, Single-Cell Experiments, Single-Cell Data Analysis, Computational Modeling, Parameter Estimation.
 ### Teaching
-UQ-Bio Summer School, project organizer and lecturer. See the [UQ-bio website](ihttps://q-bio.org/wp/) and my lectures on [image analysis](https://q-bio.org/wp/mod1_imaging/) and [introduction to inference](https://q-bio.org/wp/home/2021schedule/mod-4-single-cell-master-equations/). Colab notebooks for each lecture are available [here](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing) and [here](https://colab.research.google.com/drive/11UUXs2-2WMo0tbXKABpPkwuMPN7H-XMx?usp=sharing). I also organized a hands on project for the undergraduate students. 2021. 
+UQ-Bio Summer School, project organizer and lecturer. See the [UQ-bio website](ihttps://q-bio.org/wp/) for my lectures on [image analysis](https://q-bio.org/wp/mod1_imaging/) and [introduction to inference](https://q-bio.org/wp/home/2021schedule/mod-4-single-cell-master-equations/). Colab notebooks for each lecture are available [here](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing) and [here](https://colab.research.google.com/drive/11UUXs2-2WMo0tbXKABpPkwuMPN7H-XMx?usp=sharing). I also organized a hands on project for the undergraduate students. 2021. 
 
 Q-Bio Summer School, project lead/instructor, 2016-2017. 
 
