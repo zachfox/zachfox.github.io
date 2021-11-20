@@ -5,18 +5,22 @@ permalink: /CV/
 ---
 ### Education and Experience
 *2020-...* **Post-doctoral fellow in Applied Mathematics and Machine Learning**. Center for Nonlinear Studies and Information Sciences, Los Alamos National Laboratory, Los Alamos, NM. 
+
 *2019-2020* **Post-doctoral researcher in Applied Mathematics and Cybergenetics**. Joint position between Inria and Institut Pasteur in Paris, France. 
 
 *2014-2019.* **PhD in Bioengineering**. Colorado State University, Fort Collins, CO. _Integrating discrete stochastic models and single-cell data_. 
 
 *2010-2014.* **Bachelor of Biomedical Engineering**. University of Delaware, Newark, DE. Minor in Electrical and Computer Engineering. _Stochastic modeling of Tat feedbacks in HIV and dynamics of promiscuous binding of transcription factors_. 
 ### Research Interests
-Stochastic Gene Regulation, Optimal Experiment Design, Uncertainty Quantification, Complex Systems, Single-Cell Experiments, Single-Cell Data Analysis, Computational Modeling, Parameter Estimation.
+Stochastic Gene Regulation, Optimal Experiment Design, Uncertainty Quantification, Complex Systems, Bioimage Analysis, Control, Synthetic Biology, Single-Cell Experiments, Single-Cell Data Analysis, Computational Modeling, Parameter Estimation.
 ### Teaching
-U(ndergraduate) Q-Bio Summer School, project organizer and lecturer. See the [UQ-bio website](ihttps://q-bio.org/wp/) and my lectures on [image analysis](https://q-bio.org/wp/mod1_imaging/) and [introduction to inference](https://q-bio.org/wp/home/2021schedule/mod-4-single-cell-master-equations/). Colab notebooks for each lecture are available [here](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing) and [here](https://colab.research.google.com/drive/11UUXs2-2WMo0tbXKABpPkwuMPN7H-XMx?usp=sharing). I also organized a hands on project for the undergraduate students. 2021. 
+UQ-Bio Summer School, project organizer and lecturer. See the [UQ-bio website](ihttps://q-bio.org/wp/) and my lectures on [image analysis](https://q-bio.org/wp/mod1_imaging/) and [introduction to inference](https://q-bio.org/wp/home/2021schedule/mod-4-single-cell-master-equations/). Colab notebooks for each lecture are available [here](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing) and [here](https://colab.research.google.com/drive/11UUXs2-2WMo0tbXKABpPkwuMPN7H-XMx?usp=sharing). I also organized a hands on project for the undergraduate students. 2021. 
+
 Q-Bio Summer School, project lead/instructor, 2016-2017. 
+
 Introduction to MATLAB for Chemical Engineers. Colorado State University, Fall 2017.
 ### Awards and Fellowships
+*2020-...* **CNLS Fellow** *Los Alamos National Laboratory, Los Alamos, NM*. Postdoctoral fellow in the (Center for Nonlinear Studies)[https://cnls.lanl.gov/External/] at Los Alamos National Laboratory. 
 *2017-2018* **VPR Fellow** *Colorado State University*, Fort Collins, CO.
 Fellowship earned by competing in University-wide [scientific communication competition]("https://vpr.colostate.edu/vpr-fellows-program/") sponsored by the Office of the Vice President for Research at CSU. You can see my presentation [here](https://www.youtube.com/watch?v=D9zbiR2Fc7w).
 
