@@ -8,12 +8,12 @@ layout: home
 <img  src="/assets/header_fig.png" alt="rectangle" style="width: 500px" />
 </p>
 <h1> Thanks for visiting.</h1>
-I am currently a post-doctoral fellow in the Center for Nonlinear Studies and Computer, Computational, and Statistical Sciences at Los Alamos National Lab. Prior to joining Los Alamos in November 2020, I was a post-doctoral researcher with the [InBio team](https://research.pasteur.fr/en/team/experimental-and-computational-methods-for-modeling-cellular-processes/) at Institut Pasteur and Inria in Paris, France. I worked with collaborators at IST Austria and the University of Exeter, UK, to develop quantitative methods to design, test, and debug synthetic biological systems, including "computer in the loop" cybergenetic circuits.
+I am currently a Research Scientist for AI in health at Oak Ridge National Laboratory. Prior to joining Oak Ridge in the fall of 2022, I was a postdoctoral researcher in the [Center for Nonlinear Studies at Los Alamos National Lab](https://cnls.lanl.gov/External/) and at [Institut Pasteur](https://research.pasteur.fr/en/team/experimental-and-computational-methods-for-modeling-cellular-processes/).  
 
-I was a PhD student studying computational and systems biology in [Brian Munsky's group](http://www.engr.colostate.edu/~munsky/) at Colorado State University in Fort Collins, CO.
+
+I did my PhD studies in computational and systems biology with [Brian Munsky](http://www.engr.colostate.edu/~munsky/) at Colorado State University in Fort Collins, CO.
 My PhD work developed new computational methods to compare stochastic models of gene expression and modern single cell data. 
 
-New techniques allow experimental biologists to measure biomolecules with higher precision, and even image the entire central dogma at single-molecule resolution in live cells. My work tries to improve computational modeling approaches to make use of the rich and exciting information contained in modern experiments. 
 I am passionate about computation and predictive modeling, especially in stochastic systems. Check out [google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=1&oi=ao) to see a comprehensive list of publications. 
 
 
