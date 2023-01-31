@@ -4,8 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
+## 2023
+Raymond, Ghaffari, Aguilera, Ron, Morisaki, Fox, May, Stasevich, Munsky. [Using Mechanistic Models and Machine Learning to Design Single-Color Multiplexed Nascent Chain Tracking Experiments](https://www.biorxiv.org/content/10.1101/2023.01.25.525583v1). *bioRXiv*.
+
 ## 2022 
 (Fox, Fletcher), Fraisse, Aditya, Sosa-Carrilo, Petit, Gilles, Bertaux, Ruess, Batt. [Enabling reactive microscopy with MicroMator](https://www.nature.com/articles/s41467-022-29888-z#citeas). *Nature Communications.*
+
+Fox. [Extracting Information from Stochastic Trajectories of Gene Expression](https://arxiv.org/pdf/2206.14874.pdf). *arXiv preprint*. 
 
 ## 2021
 Fox, Barkai, Krapf. [Aging power spectrum of membrane protein transport and other subordinated random walks](https://www.nature.com/articles/s41467-021-26465-8). *Nature Communications*.
