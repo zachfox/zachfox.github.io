@@ -5,10 +5,18 @@ permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
 ## 2023
-Raymond, Ghaffari, Aguilera, Ron, Morisaki, Fox, May, Stasevich, Munsky. [Using Mechanistic Models and Machine Learning to Design Single-Color Multiplexed Nascent Chain Tracking Experiments](https://www.biorxiv.org/content/10.1101/2023.01.25.525583v1). *bioRXiv*.
+Fox, English, Akpa. [Targeting tissues via dynamic human systems modelin in generative design](https://openreview.net/attachment?id=lOIKlYR3vX&name=pdf).*GenBio Workshop, NeurIPS*. 
+Fox, Ghosh. [Active Causal Machine Learning for Molecular Property Prediction](https://openreview.net/forum?id=57EslEJNOj). *AI4Mat Workshop, NeurIPS.*
+Santos, Fox, Lubbers, Lin. [Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces](https://arxiv.org/abs/2305.11089). *ICML*. 
+Spannaus, Gounley, Chandra Shekar, Fox, Mohd-Yusof, Schaefferkoetter, Hanson. [FrESCO: Framework for Exploring Scalable Computational Oncology](https://joss.theoj.org/papers/10.21105/joss.05345). *Journal of Open Source Software)*. 
+Blanchard, Bhowmik, Fox, Gounley, Glaser, Akpa, Irle. [Adaptive language model training for molecular design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00719-7). *Journal of Cheminformatics*. 
+Raymond, Ghaffari, Aguilera, Ron, Morisaki, Fox, May, Stasevich, Munsky. [Using Mechanistic Models and Machine Learning to Design Single-Color Multiplexed Nascent Chain Tracking Experiments](https://www.frontiersin.org/articles/10.3389/fcell.2023.1151318/full). *Frontiers in Cell Dev. Bio*.
+
 
 ## 2022 
 (Fox, Fletcher), Fraisse, Aditya, Sosa-Carrilo, Petit, Gilles, Bertaux, Ruess, Batt. [Enabling reactive microscopy with MicroMator](https://www.nature.com/articles/s41467-022-29888-z#citeas). *Nature Communications.*
+
+Santos, Fox, Mohan, Viswanathan, Lubbers. [The Senseiver: attention-based global field reconstruction from sparse observations](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_173.pdf). Neurips workshop on Machine Learning and the Physical Sciences.
 
 Fox. [Extracting Information from Stochastic Trajectories of Gene Expression](https://arxiv.org/pdf/2206.14874.pdf). *arXiv preprint*. 
 
