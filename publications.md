@@ -5,15 +5,15 @@ permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
 ## 2023
+Blanchard, Bhowmik, Fox, Gounley, Glaser, Akpa, Irle. [Adaptive language model training for molecular design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00719-7). *Journal of Cheminformatics*. 
+
 Fox, English, Akpa. [Targeting tissues via dynamic human systems modelin in generative design](https://openreview.net/attachment?id=lOIKlYR3vX&name=pdf).*GenBio Workshop, NeurIPS*. 
 
 Fox, Ghosh. [Active Causal Machine Learning for Molecular Property Prediction](https://openreview.net/forum?id=57EslEJNOj). *AI4Mat Workshop, NeurIPS.*
 
 Santos, Fox, Lubbers, Lin. [Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces](https://arxiv.org/abs/2305.11089). *ICML*. 
 
-Spannaus, Gounley, Chandra Shekar, Fox, Mohd-Yusof, Schaefferkoetter, Hanson. [FrESCO: Framework for Exploring Scalable Computational Oncology](https://joss.theoj.org/papers/10.21105/joss.05345). *Journal of Open Source Software)*. 
-
-Blanchard, Bhowmik, Fox, Gounley, Glaser, Akpa, Irle. [Adaptive language model training for molecular design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00719-7). *Journal of Cheminformatics*. 
+Spannaus, Gounley, Chandra Shekar, Fox, Mohd-Yusof, Schaefferkoetter, Hanson. [FrESCO: Framework for Exploring Scalable Computational Oncology](https://joss.theoj.org/papers/10.21105/joss.05345). *Journal of Open Source Software*. 
 
 Raymond, Ghaffari, Aguilera, Ron, Morisaki, Fox, May, Stasevich, Munsky. [Using Mechanistic Models and Machine Learning to Design Single-Color Multiplexed Nascent Chain Tracking Experiments](https://www.frontiersin.org/articles/10.3389/fcell.2023.1151318/full). *Frontiers in Cell Dev. Bio*.
 
