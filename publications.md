@@ -11,6 +11,8 @@ Fox, English, Akpa. [Targeting tissues via dynamic human systems modelin in gene
 
 Fox, Ghosh. [Active Causal Machine Learning for Molecular Property Prediction](https://openreview.net/forum?id=57EslEJNOj). *AI4Mat Workshop, NeurIPS.*
 
+Fox, Batt, Ruess. [Bayesian filtering for model predictive control of stochastic gene expression in single cells](https://iopscience.iop.org/article/10.1088/1478-3975/ace094). *Physical Biology*. 
+
 Santos, Fox, Lubbers, Lin. [Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces](https://arxiv.org/abs/2305.11089). *ICML*. 
 
 Spannaus, Gounley, Chandra Shekar, Fox, Mohd-Yusof, Schaefferkoetter, Hanson. [FrESCO: Framework for Exploring Scalable Computational Oncology](https://joss.theoj.org/papers/10.21105/joss.05345). *Journal of Open Source Software*. 
