@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 For citations and other metrics, please see [Google scholar](https://scholar.google.com/citations?user=PrYu53UAAAAJ&hl=en&authuser=2). 
 ## 2023
+
+Santos, Fox, Mohan, O'Malley, Viswanathan, Lubbers. [Development of the Senseiver for efficient field reconstruction from sparse observations](https://www.nature.com/articles/s42256-023-00746-x#citeas). *Nature Machine Intelligence*. 
+
 Blanchard, Bhowmik, Fox, Gounley, Glaser, Akpa, Irle. [Adaptive language model training for molecular design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00719-7). *Journal of Cheminformatics*. 
 
 Fox, English, Akpa. [Targeting tissues via dynamic human systems modelin in generative design](https://openreview.net/attachment?id=lOIKlYR3vX&name=pdf).*GenBio Workshop, NeurIPS*. 
